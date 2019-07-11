@@ -1,4 +1,4 @@
-# Wordpress Deployment on Docket - Digital Ocean
+# Wordpress Deployment on Docker - Digital Ocean
 
 Cloud Service: **Digital Ocean**
 - Create Droplet(Otherwise create droplet with Docker image).
